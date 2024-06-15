@@ -1,4 +1,5 @@
-- 👋 Hi, I'm @megakhonya
+# 👋 Hi, I'm Meg Akhonya
+
 - 👀 I'm interested in blockchain technology, smart contract development, and leveraging tech for social impact.
 - 🌱 I’m currently learning Blockchain Development, Smart Contract Development, and Decentralized Application (DApp) Development.
 - 🔍 I’m looking for help with advanced smart contract development and integrating blockchain solutions with existing systems.
