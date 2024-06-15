@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I have a passion for strategic management and am always seeking innovative ways to apply it in the tech world.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/megmusinzi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/https://linkedin.com/in/meg-akhonya-90b872261)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/megmusinzi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/meg-akhonya-90b872261)
 
 
 # 💻 Tech Stack:
